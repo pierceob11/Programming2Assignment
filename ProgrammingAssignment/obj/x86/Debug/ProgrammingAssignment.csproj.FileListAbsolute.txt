@@ -1,0 +1,4 @@
+C:\Users\Pierce\Documents\Projects\ProgrammingAssignment\ProgrammingAssignment\bin\Debug\ProgrammingAssignment.exe
+C:\Users\Pierce\Documents\Projects\ProgrammingAssignment\ProgrammingAssignment\bin\Debug\ProgrammingAssignment.pdb
+C:\Users\Pierce\Documents\Projects\ProgrammingAssignment\ProgrammingAssignment\obj\x86\Debug\ProgrammingAssignment.exe
+C:\Users\Pierce\Documents\Projects\ProgrammingAssignment\ProgrammingAssignment\obj\x86\Debug\ProgrammingAssignment.pdb
